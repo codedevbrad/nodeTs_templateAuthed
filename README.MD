@@ -8,3 +8,8 @@ https://github.com/codedevbrad/codedevbrad-authservice/
 
 `"npm link @codedevbrad/authservice"`
 `or npm run updateAuthService`
+
+
+## Learned from this.
+
+* learned how to use error handling for routes in TS. was hard because I couldn’t use the normal Error handler I typically use.
